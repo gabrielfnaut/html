@@ -62,17 +62,17 @@
             background: black;
             border: 2px solid whitesmoke;
             width: 19%;
-            height: 630px;
-            border-radius: 20px;
-            box-shadow: 10px 10px 40px;
+            height: 600px;
+            border-radius: 25px;
+            box-shadow: 10px 10px 50px;
         }
         .maininput{
-            background-color: black;
+            background-color: rgb(51, 51, 51);
             border: 1px solid gray;
             height: 115px;
-            width: 99.5%;
+            width: 98.5%;
             font-size: 80px;
-            color: aliceblue;
+            color: gray;
             font-weight: 400;
         }
         .numbtn{
